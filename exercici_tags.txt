@@ -1,0 +1,18 @@
+- <br> : Salto de linea en el texto
+- <hr> : Muestra una linea horizontal
+- <ul> : Lista no ordenada de items
+- <ol> : Lista ordenada de items
+- <li> : Representa los elementos de dichas listas
+- <strong> : Texto en negrita y de relevancia en la web
+- <b>: Texto en negrita
+- <em>: Texto emfatizado
+- <i> : Texto en italica
+- <u> : Texto subrayado
+- <h1> : Tamaño maximo de letra para el texto entre los tags
+- <h6> : Tamaño minimo de letra para el texto entre los tags
+- <tr> : Fila de celdas de una tabla
+- <th> : Celda encabezado de una tabla
+- <td> : Celda de datos de una tabla
+- <sub> : Representa un subindice
+- <sup> : Representa un superindice
+- <legend> :Titulo de un <fieldset>
