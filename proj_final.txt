@@ -1,3 +1,3 @@
-Titulo: Web sobre la lliga de futbol o web per un amic fotograf (encara no se el nom)
-Referencias: 
-Descripcion: Una web sobre la actualitat de la lliga de primera divisió del futbol español, amb informacio dels equips y el sue estat actual a la lliga o una web per un amic que fa sessions de fotografia privades, on pujaria fotografies d'exemple, contacte, informacio adicional, etc
+Titulo: Web per un amic fotograf (encara no se el nom)
+Referencias: No tinc, pero seria una especie de web amb la pagina principal semblant a un blog
+Descripcion:Una web per un amic que fa sessions de fotografia privades, fotografies de paisatjes, timeslapse, fotos de naturalesa, contacte, informacio adicional, etc
