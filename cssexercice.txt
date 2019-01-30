@@ -1,0 +1,16 @@
+a)
+p{}
+
+b)
+p.first{}
+
+c)
+ul li:nth-child(2){}
+
+d)
+div p{}
+
+e)
+div p p p{}
+
+d)
