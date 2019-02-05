@@ -22,8 +22,11 @@
 			minuts = 0;
 		}
 		if (hores < 10) hores2 = "0" + hores;
+		else hores2 = hores;
 		if(minuts < 10) minuts2 = "0" + minuts;
+		else minuts2 = minuts;
 		if (segons < 10) segons2 = "0" + segons;
+		else segons2 = segons;
 		document.getElementById("container").innerText = hores2+":"+minuts2+":"+segons2;
 	}
 </script>
