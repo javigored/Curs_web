@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		tr, th, td {
+			border:1px solid black;
+			padding-left:10px;
+			padding-right:10px;
+		}
+		table {
+			border-collapse: collapse;
+			margin-bottom: 10px;
+		}
+		#container {
+			margin-left: 120px;
+		}
+	</style>
+	<script type="text/javascript" src="jquery.min.js"></script>
+	<script type="text/javascript" src="poke.js" ></script>
+	<title>PokeTabke</title>
+</head>
+<body>
+	<table>
+		<tr>
+			<th> Code </th>
+			<th> Normal Sprite </th>
+			<th> Shiny Sprite </th>
+			<th> Name </th>
+			<th> Type </th>
+			<th> HM </th>
+		</tr>
+		<tr>
+			<td id="col1"></td>
+			<td><img id="col2"></td>
+			<td><img id="col3"></td>
+			<td id="col4"></td>
+			<td id="col5"></td>
+			<td id="col6"></td>
+		</tr>
+	</table>
+	<div id="container">
+		<input type="button" id="boto" value=" < "></input>
+		<input type="text" id="box" placeholder="Search by code"></input>
+		<input type="button" id="search" value="Search"></input>
+		<input type="button" id="boto2" value=" > "></input>
+	</div>
+</body>
+</html>
